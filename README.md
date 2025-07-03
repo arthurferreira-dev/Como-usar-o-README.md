@@ -9,6 +9,6 @@ O arquivo ``README.md`` é tipo uma **documentação técnica**, que é tipo de 
 Para que usa o ``HTML``, os cabeçalhos são as tags ``<h1></h1>``, ``<h2></h2>``, ``<h3></h3>``, ``<h4></h4>``, ``<h5></h5>`` e ``<h6></h6>``.
 Só que não estamos usando HTML no README.md certo?
 
->[!DICA]
+>[!TIP]
 >
 > O ``README.md`` pode usar HTML sem problemas!
