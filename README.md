@@ -113,3 +113,7 @@ Escrita:
 | Fusca | R$1.000 |
 | PS6 | R$150 |
 ```
+
+>[!WARNING]
+>
+> Não se esqueça do espaço e o fechamento entre o `|` e seu texto!
