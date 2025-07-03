@@ -117,3 +117,27 @@ Escrita:
 >[!WARNING]
 >
 > Não se esqueça do espaço e o fechamento entre o `|` e seu texto!
+
+### Bloco de Notas
+
+Os Bloco de Notas servem para deixar um lembrete e chamar a atenção de que estiver lendo. Veja alguns a seguir: <br>
+
+* [!TIP]
+* [!NOTE]
+* [!IMPORTANT]
+* [!CAUTION]
+* [!ADMINISTRATION]
+* [!ERROR]
+* [!AVAILABILITY]
+* [!PREREQUISITES]
+* [!INFO]
+* [!SUCCESS]
+
+No geral em si, os blocos de notas devem ter uma moderação quando usados, porquê podem causar problemas, eles devem estar entre `[]` e ter uma `!` nos colchetes. <br>
+Os blocos de notas são uteís pois suportam bloco de códigos os `6 desses ``````` `, links. imagens e listas, tente deixar eles simples e o mais direto possível.
+
+### Vídeos
+
+O `MarkDown` não renderiza vídeos nativamente, mas usando uma extensão até funciona.
+
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
