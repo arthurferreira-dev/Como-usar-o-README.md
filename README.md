@@ -157,7 +157,7 @@ Escritas:
 
 ### TaskList
 
-No `MarkDown` temos as lista desordenadas e ordenadas, mas nós também temos as TaskLists.
+No `MarkDown` temos as lista desordenadas e ordenadas, mas nós também temos as TaskLists, nós usamos esse dois aqui: `[x] e [ ]`.
 
  - [x] Escrita do `README.md`
  - [ ] Discord
