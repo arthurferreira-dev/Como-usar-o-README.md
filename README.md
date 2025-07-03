@@ -160,5 +160,5 @@ Escritas:
 No `MarkDown` temos as lista desordenadas e ordenadas, mas nós também temos as TaskLists.
 
  - [x] Escrita do `README.md`
- - [:] Discord
+ - [ ] Discord
   - [x] Algo a mais...
