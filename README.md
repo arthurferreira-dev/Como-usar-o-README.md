@@ -99,3 +99,17 @@ Escrita:
 
 Tabelas são muuuito simples de serem feitas no ``.md``. Veja meu Exemplo: <br>
 
+| Item | Preço |
+| ---- | ----- |
+| Bike | R$45 |
+| Fusca | R$1.000 |
+| PS6 | R$150 |
+
+Escrita: 
+```
+| Item | Preço |
+| ---- | ----- |
+| Bike | R$45 |
+| Fusca | R$1.000 |
+| PS6 | R$150 |
+```
