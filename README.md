@@ -17,9 +17,6 @@ Só que não estamos usando HTML no README.md certo?
 
 As tags em ``HTML`` podem ser substituídas por simples hashtags(#) antes de escrever algo. Veja os exemplos a seguir: <br>
 
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
+<img src="imgs/cabecalho.png" width="128px" heigth="307px">
+<br>
+<img src="imgs/cabecalho-em-md.png" width="193px" heigth="231px">
