@@ -174,6 +174,10 @@ Escrita:
 > Exemplo de Blockquote
 ```
 
+## License
+
+[MIT License](LICENSE)
+
 ## Obrigado por ler!
 
 Porfavor compartilhe este repositório ao máximo de pessoas para que ajude elas também!
