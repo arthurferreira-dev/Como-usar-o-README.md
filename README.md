@@ -162,3 +162,23 @@ No `MarkDown` temos as lista desordenadas e ordenadas, mas nós também temos as
  - [x] Escrita do `README.md`
  - [ ] Discord
   - [x] Algo a mais...
+
+### Blockquote
+
+São quotes no HTML, só que no `.md` usaremos o carácter `>`, antes do texto coloque ele e de um espaço.
+
+> Exemplo de Blockquote
+
+Escrita:
+```
+> Exemplo de Blockquote
+```
+
+## Obrigado por ler!
+
+Porfavor compartilhe este repositório ao máximo de pessoas para que ajude elas também!
+
+# Referências:
+
+[Adobe - Experience Cloud](https://experienceleague.adobe.com/pt-br/docs/contributor/contributor-guide/writing-essentials/markdown) <br>
+[Medium](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
