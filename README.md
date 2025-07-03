@@ -141,3 +141,24 @@ Os blocos de notas são uteís pois suportam bloco de códigos os `6 desses ````
 O `MarkDown` não renderiza vídeos nativamente, mas usando uma extensão até funciona.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+
+### Links
+
+Como no HTML temos a tag `<a href=""></a>`, no MarkDown temos os carácteres `[texto do link](url)` juntos. Veja alguns exemplos:
+
+* [Landing Page Lanchonete](https://github.com/arthurferreira-dev/Landing-Page-Lanchonete)
+* [Discord](https://discord.com/)
+
+Escritas:
+```
+[Landing Page Lanchonete](https://github.com/arthurferreira-dev/Landing-Page-Lanchonete)
+[Discord](https://discord.com/)
+```
+
+### TaskList
+
+No `MarkDown` temos as lista desordenadas e ordenadas, mas nós também temos as TaskLists.
+
+ - [x] Escrita do `README.md`
+ - [] Discord
+  - [x] Algo a mais...
