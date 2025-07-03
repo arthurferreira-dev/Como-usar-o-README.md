@@ -20,3 +20,82 @@ As tags em ``HTML`` podem ser substituídas por simples hashtags(#) antes de esc
 <img src="imgs/cabecalho.png" width="128px" heigth="307px">
 <br>
 <img src="imgs/cabecalho-em-md.png" width="193px" heigth="231px">
+<br>
+
+### Um toque a mais nos seus ``Textos`` no README.md
+
+Agora vamos aprender a formatar textos em MarkDown **(que é a extensão .md)**.
+
+#### **Negrito**
+```
+    **Este é meu texto em Negrito**
+```
+
+Resultado: **Este é meu texto em Negrito**
+
+<br>
+
+#### *Itálico*
+```
+    *Este é um texto em Itálico*
+```
+
+Resultado: *Este é um texto em Itálico*
+
+<br>
+
+#### ***Negrito e Itálico***
+
+```
+    ***Este é um texto especial em Negrito e em Itálico***
+```
+
+Resultado: ***Este é um texto especial em Negrito e em Itálico***
+
+Para ignorar os carácteres especiais que acabei de te mostrar, basta colocar ``\`` antes do carácter.
+
+```
+    \* Este não é mais um texto em Itálico \*
+```
+
+Resultado: \* Este não é mais um texto em Itálico \*
+
+### Listas do tipos Numeradas ou Itens
+
+Também em ``HTML`` temos isso com as tags, ``<ol></ol>`` e ``<ul></ul>``. <br>
+So que em `MarkDown` temos os seguintes carácteres, ``1.`` e ``*``. Veja os exemplos a seguir: <br>
+
+#### Lista Ordenada (em ordem)
+
+1. Primeiro Item
+1. Segundo Item
+2. Terceiro Item
+3. Quarto Item
+
+Escrita: 
+```
+1. Primeiro Item
+1. Segundo Item
+2. Terceiro Item
+3. Quarto Item
+```
+
+#### Lista Desordenada
+
+* Item 1
+* Item 41
+* Item 2
+* Item 65
+
+Escrita:
+```
+* Item 1
+* Item 41
+* Item 2
+* Item 65
+```
+
+### Tabelas
+
+Tabelas são muuuito simples de serem feitas no ``.md``. Veja meu Exemplo: <br>
+
